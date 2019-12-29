@@ -47,4 +47,5 @@ public class Military {
     public void setBags(Bag bags) {
         this.bags = bags;
     }
+    // it is just a practice
 }
