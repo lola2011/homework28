@@ -14,5 +14,6 @@ public class main3 {
         Soldier soldier3=new Soldier("Mehmet","asker",20,bag1,gun1);
         Soldier soldier4=new Soldier("Marat","asker",22,bag1,gun1);
         Officer officer1=new Officer("Sultan","polkovnik",38,bag2,map1);
+        Officer officer2=new Officer("Amir,"albay",45,bag2,map1);
     }
 }
